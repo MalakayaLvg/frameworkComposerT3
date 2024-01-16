@@ -2,6 +2,7 @@
 
 namespace App\Entity;
 
+use App\Repository\ClubRepository;
 use App\Repository\SportRepository;
 use Core\Attributes\Table;
 use Core\Attributes\TargetRepository;
